@@ -1,7 +1,5 @@
 # Zomato Data Analysis and Visualization
 
-![Zomato](https://img.icons8.com/color/96/000000/zomato.png)
-
 This repository contains data analysis and visualization of Zomato restaurant data. Zomato is a popular online food delivery and restaurant discovery platform. In this project, we explore various aspects of the data provided by Zomato and visualize key insights to gain a better understanding of the restaurant industry.
 
 ## Table of Contents
